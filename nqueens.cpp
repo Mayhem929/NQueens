@@ -2,7 +2,7 @@
 
 #define QUEEN '*'
 #define EMPTY '.'
-#define DIM 15
+#define DIM 10
 
 using namespace std;
 
